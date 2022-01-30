@@ -59,5 +59,5 @@ For Thomas High School's performance relative to other schools, it retained the 
 
 ## III. Summary
 
-After replacing the Thomas High School 9th graders' grades with NaN, there were **no changes for THS performance ranking, scores by school spending, scores by school size, and scores by school type. The changes were obeserved in the district summary and school summary. Most of the values became slightly lower except for average reading scores. The biggest changest are observed in the % Overall Passing for district summary and school summary, where both values became lower by 0.3. 
+After replacing the Thomas High School 9th graders' grades with NaN, there were **no changes for THS performance ranking, scores by school spending, scores by school size, and scores by school type. The changes were obeserved in the district summary and school summary. Most of the values became slightly lower except for average reading scores. The biggest changest are observed in the % Overall Passing for district summary and school summary, where both values became lower by 0.3.** 
 
