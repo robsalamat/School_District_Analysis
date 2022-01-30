@@ -8,7 +8,7 @@ Maria, the chief data scientist of the city school district, was tasked with ana
 ### Objective
 After the analysis, it was discovered that grades for Thomas High School ninth graders appear to have been altered. Now, the goal is to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact, then repeat the school district analysis and report how the changes affected the overall analysis.
 
-## II. Results
+## II. [Analysis and Results](PyCitySchools_Challenge.ipynb)
 
 - How is the district summary affected?
 
