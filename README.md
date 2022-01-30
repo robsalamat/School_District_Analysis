@@ -10,13 +10,28 @@ After the analysis, it was discovered that grades for Thomas High School ninth g
 
 ## II. [Analysis and Results](PyCitySchools_Challenge.ipynb)
 
-- How is the district summary affected?
+The Math and Reading scores were replaced with NaNs using:
+![](Resources/NaN.PNG)
 
-- How is the school summary affected?
+### A. Effect on District Summary
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![](Resources/District_Summary.png)
 
-- How does replacing the ninth-grade scores affect the following:
+The new edited values are slightly lower than the original values. The District % Overall Passing became lower by 0.3.
+
+### B. Effect on School Summary
+
+![](Resources/School_Summary.png)
+
+The school performance also became slightly lower than the orginal values. The school's % Overall Passing also became lower by 0.3.
+
+### C. Thomas High School’s performance relative to the other schools
+
+![](Resources/THS_Performance.png)
+
+In Thomas High School's performance relative to other schools, 
+
+### D. How does replacing the ninth-grade scores affect the following:
 
   -Math and reading scores by grade
   
