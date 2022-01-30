@@ -28,4 +28,5 @@ After the analysis, it was discovered that grades for Thomas High School ninth g
 
 ## III. Summary
 
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
