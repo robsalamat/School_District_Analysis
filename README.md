@@ -17,13 +17,13 @@ The Math and Reading scores were replaced with NaNs using:
 
 ![](Resources/District_Summary.png)
 
-The new edited values are slightly lower than the original values. The District % Overall Passing became lower by 0.3.
+The new edited values are slightly lower than the original values for Average Math Score, % Passing Math, and % Passing Reading. The major change is that the District % Overall Passing became lower by 0.3.
 
 ### B. Effect on School Summary
 
 ![](Resources/School_Summary.png)
 
-The school performance also became slightly lower than the orginal values. The school's % Overall Passing also became lower by 0.3.
+The school performance also became slightly lower than the orginal values for Average Math Score, % Passing Math, and % Passing Reading. This time, the average reading score became slightly higher. The major change is the school's % Overall Passing became lower by 0.3.
 
 ### C. Thomas High School’s performance relative to the other schools
 
@@ -59,5 +59,5 @@ For Thomas High School's performance relative to other schools, it retained the 
 
 ## III. Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+After replacing the Thomas High School 9th graders' grades with NaN, there were **no changes for THS performance ranking, scores by school spending, scores by school size, and scores by school type. The changes were obeserved in the district summary and school summary. Most of the values became slightly lower except for average reading scores. The biggest changest are observed in the % Overall Passing for district summary and school summary, where both values became lower by 0.3.
 
