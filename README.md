@@ -29,7 +29,7 @@ The school performance also became slightly lower than the orginal values. The s
 
 ![](Resources/THS_Performance.png)
 
-In Thomas High School's performance relative to other schools, 
+For Thomas High School's performance relative to other schools, it retained the Top 2 spot even with a lower % Overall Passing.
 
 ### D. How does replacing the ninth-grade scores affect the following:
 
