@@ -31,15 +31,31 @@ The school performance also became slightly lower than the orginal values. The s
 
 For Thomas High School's performance relative to other schools, it retained the Top 2 spot even with a lower % Overall Passing.
 
-### D. How does replacing the ninth-grade scores affect the following:
+### D. Replacing the ninth-grade scores effect on the following:
 
-  -Math and reading scores by grade
+  - **Math and reading scores by grade**
   
-  -Scores by school spending
+  ![](Resources/Scores_by_Grade.png)
   
-  -Scores by school size
+  The 9th graders' math and reading scores are just replaced by NaN.
   
-  -Scores by school type
+  - **Scores by school spending**
+   
+  ![](Resources/Scores_by_Spending.png)
+  
+  There is no change for the scores by school spending.
+  
+  - **Scores by school size**
+  
+  ![](Resources/Scores_by_Size.png)
+  
+  There is no change for the scores by school size.
+  
+  - **Scores by school type**
+
+  ![](Resources/Scores_by_Type.png)
+
+  There is no change for the scores by school type.
 
 ## III. Summary
 
